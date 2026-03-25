@@ -2,3 +2,7 @@
 slprj/
 *.slxc
 *.mex*
+Burst_structs/
+File_Tables/
+*.mat
+slprj/
